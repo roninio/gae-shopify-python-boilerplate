@@ -1,4 +1,3 @@
-
 This is a quickstart for developers whom want to build Shopify Apps on Google App engine. 
 
 How to run it:
@@ -16,6 +15,8 @@ in the admin localhost:8000 make the Datastore Viewer in User, change your user 
 Than you can goto localhost:8080/shop/THE SHOP YOU WANT/gettoken
 
 thats it after this you will have in the datastore information regarding the shop and the token.
+
+see more info how shopify connection works : https://github.com/Shopify/shopify_python_api
 
 The below information is from Project of Google App Engine
 
