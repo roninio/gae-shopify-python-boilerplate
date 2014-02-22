@@ -1,0 +1,200 @@
+# French (France) translations for PROJECT.
+# Copyright (C) 2012 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2014-02-17 01:55-0300\n"
+"PO-Revision-Date: 2012-07-19 12:53-0400\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: fr_FR <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+msgid ""
+"<a href=\"http://browsehappy.com/\">Upgrade to a different browser</a>\n"
+"    \tor <a href=\"http://www.google.com/chromeframe/?redirect=true\">\n"
+"    \tinstall Google Chrome Frame</a> to experience this site."
+msgstr ""
+"<a href=\"http://browsehappy.com/\">Mise à niveau vers un navigateur "
+"différent</a>\n"
+"    \tou <a href=\"http://www.google.com/chromeframe/?redirect=true\">\n"
+"    \tinstaller Google Chrome Frame</a> pour découvrir ce site."
+
+msgid "Associate account with"
+msgstr "Associer le compte avec"
+
+msgid "Cancel"
+msgstr "Abandonner"
+
+msgid "Change password"
+msgstr "Changer le mot de passe"
+
+msgid "Change your email"
+msgstr "Changer l'adresse mail"
+
+msgid "Change your password"
+msgstr "Changer votre mot de passe"
+
+msgid "Confirm Password"
+msgstr "Confirmer le mot de passe"
+
+msgid "Congratulations on your Google App Engine Boilerplate powered page."
+msgstr ""
+"Félicitations vous êtes sur votre page propulsée par Boilerplate de "
+"Google App Engine."
+
+msgid "Contact"
+msgstr "Contact"
+
+msgid "Country"
+msgstr "Pays"
+
+msgid "Created"
+msgstr ""
+
+msgid "Current Email"
+msgstr ""
+
+msgid "Current Password"
+msgstr "Mot de Passe Actuel"
+
+msgid "Don't have an account?"
+msgstr "Vous n'avez pas de compte?"
+
+msgid "Edit Profile"
+msgstr "Editer votre profil"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Enter a new email address"
+msgstr "Entrez une nouvelle adresse email"
+
+msgid "Enter your"
+msgstr "Entrez votre"
+
+msgid "Existing social association"
+msgstr "Association sociale déjà existante"
+
+msgid "Forgot your password?"
+msgstr "Vous avez oublié votre mot de passe?"
+
+msgid "Good Password"
+msgstr "Bon mot de passe"
+
+msgid "Google App Engine Boilerplate is released under the"
+msgstr "Google App Engine Boilerplate est distribué sous"
+
+msgid "Insecure Password"
+msgstr "Mot de passe peu sûr"
+
+msgid "Language"
+msgstr "Langue"
+
+msgid "Last Name"
+msgstr "Nom de famille"
+
+msgid "Learn why this Boilerplate Rocks"
+msgstr "Apprenez pourquoi ça swing avec Boilerplate"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Logout"
+msgstr "Logout"
+
+msgid "Message"
+msgstr "Message"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "New Email"
+msgstr "Nouveau Email"
+
+msgid "New Password"
+msgstr "Nouveau Mot de passe"
+
+msgid "Or Sign in using:"
+msgstr "Ou vous connecter en utilisant"
+
+msgid "Password"
+msgstr "Mot de passe"
+
+msgid "Remember me?"
+msgstr "Se souvenir de moi?"
+
+msgid "Remove"
+msgstr "Supprimer"
+
+msgid "Reset password"
+msgstr "Réinitialiser le mot de passe"
+
+msgid "Search User"
+msgstr "Cherche l'Utilisateur"
+
+msgid "Secure Page"
+msgstr "Page sécurisée"
+
+msgid "Secure Password"
+msgstr "Mot de Passe Sûr"
+
+msgid "Send Message"
+msgstr "Envoyer le Message"
+
+msgid "Short Password"
+msgstr "Mot de passe court"
+
+msgid "Sign Up"
+msgstr "Vous inscrire"
+
+msgid "Source Code"
+msgstr "Code Source"
+
+msgid "Timezone"
+msgstr "Timezone"
+
+msgid "Update Profile"
+msgstr "Mise à jour du profil"
+
+msgid "Updated"
+msgstr ""
+
+msgid "User Details"
+msgstr "Détails de l'utilisateur"
+
+msgid "User List"
+msgstr "Liste utilisateur"
+
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+msgid "Username or Email"
+msgstr "Nom d'utilisateur ou Email"
+
+msgid "Users Geolocation"
+msgstr "Géolocalisation des Utilisateurs"
+
+msgid "Visit Site"
+msgstr ""
+
+msgid "Your browser is <em>ancient!</em>"
+msgstr "Votre navigateur est <em>ancien!</em>"
+
+msgid "download the Source Code"
+msgstr "téléchargez le Code Source"
+
+msgid "or just"
+msgstr "ou simplement"
+
+msgid "to help you to create your application."
+msgstr "pour vous aider à créer votre application."
+

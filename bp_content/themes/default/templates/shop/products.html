@@ -1,0 +1,32 @@
+{% extends base_layout %}
+
+{% block header_title_lead %}{% endblock %}
+
+{% block content %}
+
+
+<style type="text/css">
+table td {
+    text-align:center; 
+    vertical-align:middle;
+}
+</style>
+<table>
+<thead>
+	<th>title</th>
+	<th>id</th>
+	<th>inventory quantity</th>
+</thead>
+
+{% for row in products2 %}
+<tr>
+	<td>{{ row['attributes'].title }}</td>
+    <td>{{ row['attributes']['variants'][0].id}}</td>
+    <td>{{ row['attributes']['variants'][0].inventory_quantity}}</td>
+    
+</tr>
+{% endfor %}
+
+
+</table>
+{% endblock %}
